@@ -1,14 +1,36 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+    [
+        {   "id" : "1",
+            "identification": "8806176074082",
+            "HPRN": "SB100",
+            "first_name": "Lindelani",
+            "surname" : "Mbedzi",
+            "date_of_birth": "2019/02/12",
+            "gender": "Male"
+        },
+        {
+            "id" : "2",
+            "identification": "7005286328082",
+            "first_name": "Muzi",
+            "HPRN": "SB101",
+            "surname" : "Matyila",
+            "date_of_birth": "2018/01/24",
+            "gender": "Male"
+        },
+        {
+            "id" : "3",
+            "identification": "9601127084087",
+            "first_name": "Adivhaho",
+            "surname" : "Mudau",
+            "date_of_birth": "2015/05/05",
+            "gender": "Female"
+        },
+        {
+            "id" : "4",
+            "identification": "9421128045085",
+            "HPRN": "SB100",
+            "first_name": "Ndumiso",
+            "surname" : "Booi",
+            "date_of_birth": "2018/07/25",
+            "gender": "Male"
+        }
+    ]
